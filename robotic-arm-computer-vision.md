@@ -27,7 +27,7 @@ Docker simplifies deployment and ensures that the simulation environment is cons
 
 I have created a step-by-step tutorial that explains how to set up the robotic arm simulation and control it.
 
-- **Robotic Arm Tutorial Repository**: [Robotic Arm Tutorial](https://github.com/yourusername/robotic-arm-tutorial)
+- **Robotic Arm Tutorial Repository**: [Robotic Arm Tutorial](https://github.com/Robotics-Society-PEC/Robotic-Arm)
 
 This tutorial includes all the necessary information to get the simulation running and covers the basics of ROS, Docker, and Gazebo.
 
